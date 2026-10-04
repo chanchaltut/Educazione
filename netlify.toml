@@ -1,0 +1,8 @@
+[build]
+  publish = "in-enn/in-enn"
+
+# Handle routing refresh errors (SPA fallback)
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

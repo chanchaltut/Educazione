@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200px" height="221px" viewBox="0 0 1200 221" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>break-2a</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1200" height="221"></rect>
+    </defs>
+    <g id="Theme-Detail" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="break-2a">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Background" fill="#F2F2F2" mask="url(#mask-2)" x="0" y="0" width="1200" height="691"></rect>
+            <polygon id="Shape" fill="#FFFFFF" mask="url(#mask-2)" points="0 46 407.265625 217.921875 1200 46 1200 610.851594 839.394769 492.831422 0 691"></polygon>
+        </g>
+    </g>
+</svg>

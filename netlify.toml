@@ -1,5 +1,5 @@
 [build]
-  publish = "in-enn/in-enn"
+  publish = "."
 
 # Handle routing refresh errors (SPA fallback)
 [[redirects]]
